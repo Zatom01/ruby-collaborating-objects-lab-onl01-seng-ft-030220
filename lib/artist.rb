@@ -33,7 +33,7 @@ class Artist
       artist 
     else 
       new_artist=self.new(name)
-      @@all << new_artist
+  
       new_artist
     end 
     
